@@ -1,0 +1,9 @@
+D:\Visual Studio Projects\Learning_Database_3\bin\Debug\Database1.mdf
+D:\Visual Studio Projects\Learning_Database_3\bin\Debug\Database1_log.ldf
+D:\Visual Studio Projects\Learning_Database_3\bin\Debug\Learning_Database_3.exe.config
+D:\Visual Studio Projects\Learning_Database_3\bin\Debug\Learning_Database_3.exe
+D:\Visual Studio Projects\Learning_Database_3\bin\Debug\Learning_Database_3.pdb
+D:\Visual Studio Projects\Learning_Database_3\obj\Debug\Learning_Database_3.csprojAssemblyReference.cache
+D:\Visual Studio Projects\Learning_Database_3\obj\Debug\Learning_Database_3.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Learning_Database_3\obj\Debug\Learning_Database_3.exe
+D:\Visual Studio Projects\Learning_Database_3\obj\Debug\Learning_Database_3.pdb
